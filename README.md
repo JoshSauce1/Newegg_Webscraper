@@ -8,4 +8,7 @@ The items are then sorted by price and printed out in ascending order. Case Stud
 - Requests
 - Re Python module
 
-##Console look 
+## Console look 
+
+[Console look](https://github.com/JoshSauce1/Newegg_Webscraper/blob/master/WS%20Console%20Look.png)
+
