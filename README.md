@@ -35,6 +35,7 @@ This project automates the collection and analysis of GPU product listings from 
 | File | Description |
 |------|-------------|
 | `scraper.py` | Python script for scraping and Excel generation |
+| `4080_figure.png` | Matplotlib chart of top brands |
 | `4080_results.xlsx` | Final Excel report with dashboard |
 | `4080_results.pdf` | PDF export of the dashboard |
 | `README.md` | Project documentation |
